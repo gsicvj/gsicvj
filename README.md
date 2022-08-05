@@ -1,5 +1,5 @@
 Hey, you must've ended up here for my front end or IoT projects.
-Some of my prehistoric projects are public, while newest are private.
+Some of my prehistoric projects are public, while some of the latest are private.
 
 Contributing to OSS is maybe somewhere in the future.
 Cheers!
