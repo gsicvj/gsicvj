@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=domenurh&color=blue)
 
-I am a software developer passionate about building reusable components, migrating legacy to modern solutions and creating applications in React. Welcome to my GitHub profile!
+I build reusable components and migrate legacy code to modern Typescript/React based projects.
 
 ## 📫 How to reach me:
 - Website: [domenurh.com](https://www.domenurh.com)
