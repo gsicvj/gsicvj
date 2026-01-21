@@ -1,8 +1,8 @@
-# Hi there, I'm Domen Urh 👋
+# Domen Urh | Web Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=domenurh&color=blue)
 
-I build reusable components and migrate legacy code to modern Typescript/React based projects.
+Building fast, high-quality web platforms and apps with reusable components and seamless migrations from legacy code to modern TypeScript/React projects.
 
 ## 📫 How to reach me:
 - Website: [domenurh.com](https://www.domenurh.com)
@@ -34,14 +34,3 @@ I build reusable components and migrate legacy code to modern Typescript/React b
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsicvj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## 🏆 GitHub Profile Trophy
-
-<a href="https://github.com/gsicvj">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=gsicvj&margin-w=15&margin-h=15&theme=dark"/>
-</a>
-
-
-<!---
-gsicvj/gsicvj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
