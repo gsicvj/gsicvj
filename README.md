@@ -51,8 +51,5 @@ feedback.
   <img src="https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack" alt="Slack"/>
 </a>
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsicvj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=domenurh&color=blue)
 
