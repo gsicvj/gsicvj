@@ -1,12 +1,32 @@
-# Domen Urh | Web Developer
+# Hey, Domen here. 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=domenurh&color=blue)
 
-Building fast, high-quality web platforms and apps with reusable components and seamless migrations from legacy code to modern TypeScript/React projects.
+Frontend Engineer building automated and AI‑assisted tools.
+
+I focus on making complex workflows easier to use. My background includes
+designing modular systems for local and remote file operations, evaluating
+performance trade‑offs, and improving developer experience based on real
+feedback.
+
+### Current interests
+- Frontend systems and tooling
+- AI‑assisted developer tools
+- Agent‑like workflows and automation
+- Reducing cognitive overhead in complex systems
+
+### Selected work
+- **Agentic file operations (BSc thesis)**  
+  Modular system for local and remote file management using MCP, evaluated on
+  performance, tool complexity, and infrastructure requirements.
+  👉 https://github.com/gsicvj/uplink
+
+- **Frontend tooling experiments**  
+  UI‑focused experiments exploring how AI can support real developer workflows.
+
 
 ## 📫 How to reach me:
-- Website: [domenurh.com](https://www.domenurh.com)
-- LinkedIn: [@endomenurh](https://www.linkedin.com/in/endomenurh/)
+- Website: https://www.domenurh.com
+- LinkedIn: https://www.linkedin.com/in/domenurhdev/
 
 ## 🔧 Technologies & Tools
 <a href="https://github.com/gsicvj">
@@ -33,4 +53,6 @@ Building fast, high-quality web platforms and apps with reusable components and 
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsicvj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=domenurh&color=blue)
 
